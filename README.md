@@ -138,13 +138,17 @@ Acesse `http://localhost:5173` no browser.
 
 ## 🎥 Vídeo de Demonstração
 
----
+[![Demonstração do CardioIA Portal](https://img.youtube.com/vi/cSD9WhHehsU/maxresdefault.jpg)](https://youtu.be/cSD9WhHehsU)
 
 ## 🗃️ Histórico de Lançamentos
 
 - **1.0.0** - 09/04/2026
   - Entrega completa do portal CardioIA com autenticação, dashboard,
     listagem de pacientes, agendamentos e design responsivo em light mode.
+
+- **0.2.0** - 02/04/2026
+  - Gravação de vídeo de demonstração do portal em funcionamento, mostrando as
+    principais funcionalidades e fluxo de usuário. Adicionada seção de vídeo no README.
 
 ---
 
